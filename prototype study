@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finace Visa</title>
+</head>
+<body>
+    <header>
+        <h3>
+            <p>
+                <b>
+                    <button class="botao1">
+                        <img src="../visa/finance.png"> 
+                    </button>
+                </b>
+            </p>
+        </h3>
+    </header>
+
+    <main>
+        <section class="welcome">
+            <div class="text">
+                <h2>
+                    <strong>
+                        Welcome! Future Platform
+                    </strong>
+                </h2>
+
+                <h1>
+                    <strong>
+                        The World's Most Modern Card Platform
+                    </strong>
+                </h1>
+                <h3>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia rem ex minima repudiandae atque exercitationem! Aperiam dignissimos, quis odit sed aspernatur quae, fugiat vero omnis ducimus maiores quo dolore hic!
+                </h3>
+                <button class="botao_azul">
+                    <p> Get Started &#x21FE </p>
+                </button>
+            </div>
+
+            <img src="../visa/visa img.png">
+
+            <section>
+                <div>
+                    <img src="../visa/paypal.png">
+                    <img src="../visa/webflow.png">
+                    <img src="../visa/google.png">
+                    <img src="../visa/amazon.png">
+                    <img src="../visa/aaa.png">
+                </div>
+            </section>
+            
+            <section>
+                <div>
+                    <p>
+                        <h3>
+                            <strong>
+                            Our Services
+                            </strong>   
+                        </h3>
+                    </p>
+                    <h2>
+                        <p>
+                            <strong>
+                                Browse our 
+                                services & offerings
+                            <p>
+                                <button class="botao_azul"> Get Started &#x21FE
+                                </button>    
+                            </p>
+                            </strong>
+                        </p>
+                    </h2>
+                    <div>
+                        <h4>
+                            <article>
+                                <p>
+                                    
+                                    <strong>Checkin accounts</strong><br/>
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. <br/> 
+                                    Possimus et dolor est. Alias architecto, ea iure dicta eum <br/>
+                                    maxime numquam doloribus illo, amet praesentium nobis fugit impedit <br/>
+                                    ipsum aspernatur dignissimos! <br/>
+                                </p>
+                                
+                                <div>
+                                    <h4>
+                                        <article>
+                                            <p>
+                                                
+                                    <strong>Checkin accounts</strong><br/>
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. <br/> 
+                                    Possimus et dolor est. Alias architecto, ea iure dicta eum <br/>
+                                    maxime numquam doloribus illo, amet praesentium nobis fugit impedit <br/>
+                                    ipsum aspernatur dignissimos! <br/>
+                                            </p>
+                                            
+                                            
+                                        </article>
+                                    </h4>
+                                </div>
+                            </article>
+                        </h4>
+                    </div>
+                    <div>
+                        <h4>
+                            <article>
+                                <p>
+                                    
+                                    <strong>Checkin accounts</strong><br/>
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. <br/> 
+                                    Possimus et dolor est. Alias architecto, ea iure dicta eum <br/>
+                                    maxime numquam doloribus illo, amet praesentium nobis fugit impedit <br/>
+                                    ipsum aspernatur dignissimos! <br/>
+                                </p>
+                                
+                                
+                            </article>
+                        </h4>
+                    </div>
+                    <div>
+                        <h4>
+                            <article>
+                                <p>
+                                    <strong>Checkin accounts</strong><br/>
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. <br/> 
+                                    Possimus et dolor est. Alias architecto, ea iure dicta eum <br/>
+                                    maxime numquam doloribus illo, amet praesentium nobis fugit impedit <br/>
+                                    ipsum aspernatur dignissimos! <br/>
+                                </p>
+                                
+                                
+                            </article>
+                        </h4>
+                    </div>
+                    <div>
+                        <h4>
+                            <article>
+                                <p>
+                                    <strong>Checkin accounts</strong><br/>
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. <br/> 
+                                    Possimus et dolor est. Alias architecto, ea iure dicta eum <br/>
+                                    maxime numquam doloribus illo, amet praesentium nobis fugit impedit <br/>
+                                    ipsum aspernatur dignissimos! <br/>
+                                </p>
+                                
+                                
+                            </article>
+                        </h4>
+                    </div>
+                    <div>
+                        <h4>
+                            <article>
+                                <p>
+                                    
+                                    <strong>Checkin accounts</strong><br/>
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. <br/> 
+                                    Possimus et dolor est. Alias architecto, ea iure dicta eum <br/>
+                                    maxime numquam doloribus illo, amet praesentium nobis fugit impedit <br/>
+                                    ipsum aspernatur dignissimos! <br/>
+                                </p>
+                                
+                                
+                            </article>
+                        </h4>
+                    </div>
+                    <div>
+                        <h4>
+                            <article>
+                                <p>
+                                    
+                                    <stron>Checkin accounts</stron><br/>
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. <br/> 
+                                    Possimus et dolor est. Alias architecto, ea iure dicta eum <br/>
+                                    maxime numquam doloribus illo, amet praesentium nobis fugit impedit <br/>
+                                    ipsum aspernatur dignissimos! <br/>
+                                </p>
+                                
+                                
+                            </article>
+                        </h4>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div>
+                    <h3>
+                        <p>
+                            Benefits
+                        </p>
+                    </h3>
+                    <p>
+                        <h2>
+                            <strong>
+                                We have many users
+                                all over the World
+                            </strong>
+                        </h2>
+                        <p>
+                            <h3>
+                                Lorem ipsum dolor sit amet 
+                            </h3>
+                        </p>
+                        <p>
+                            <p>
+                                <strong>
+                                    10M+
+                                    User Active
+                                </strong>
+                            </p>
+                            <p>
+                                <strong>
+                                    30M+
+                                    Couyntry
+                                </strong>
+                            </p>
+                            <p>
+                                <strong>
+                                    $50M+
+                                    Transactions
+                                </strong>
+                            </p>
+                            <p>
+                                <img src="../visa/mapa mundi.png">
+                            </p>
+                            <section>
+                                <p>
+                                    <h3>
+                                        <strong>
+                                            Our Services
+                                        </strong>
+                                    </h3>
+                                </p>
+                                <p>
+                                    <h2>
+                                        Real Time
+                                        Transaction Report
+                                        
+                                        Lorem ipsum dolor sit amet
+                                    </h2>
+                                </p>
+                                <p>
+                                    <button style="botao_azul">
+                                        Get Started &#x21FE
+                                    </button>
+                                    <p>
+                                        <img src="../visa/cartão de credito.png">
+                                    </p>
+                                    <div>
+                                        <img src="../visa/location.png"
+                                        <h3>
+                                            <strong>
+                                                <p>
+                                                    Local bussines finance
+                                                </p>
+                                            </strong>
+                                        </h3>
+                                        <p>
+                                            <h4>
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                                            </h4>
+                                        </p>
+                                        <p>
+                                            <h4>
+                                                <strong>
+                                                    <a href="#"> Learn more &#x21fe</a>
+                                                </strong>
+                                            </h4>
+                                        </p>
+                                    </p>
+                                    </div>
+                                    <div>
+                                        <img src="../visa/internet.png">
+                                        <h3>
+                                            <p>
+                                                <strong>
+                                                    Built for global payments
+                                                </strong>
+                                            </p>
+                                        </h3>
+                                        <p>
+                                            <h4>
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                                            </h4>
+                                        </p>
+                                        <p>
+                                            <h4>
+                                                <strong>
+                                                    <a href="#"> Learn more &#x21fe</a>
+                                                </strong>
+                                            </h4>
+                                        </p>
+                                    </p>
+                                    </div>
+                                    <div>
+                                        <img src="../visa/graphics.png">
+                                        <h3>
+                                            <p>
+                                                <strong>
+                                                    Make internet of money    
+                                                </strong>  
+                                            </p>
+                                        </h3>
+                                        <p>
+                                            <h4>
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                                            </h4>
+                                            <p>
+                                                <h4>
+                                                    <strong>
+                                                        <a href="#"> Learn more &#x21fe</a>
+                                                    </strong>
+                                                </h4>
+                                            </p>
+                                        </p>
+                                    </div>
+                                </p>
+                            </section>
+                            <section>
+                                <div>
+                                    <div>
+                                        <p>
+                                            <h4>
+                                                <a href="#">Our services &#x21fe</a>
+                                            </h4>
+                                            <h2>
+                                                <strong>
+                                                    Global Business 
+                                                    Love FinanceX 
+                                                </strong>
+                                            </h2>
+                                            <p>
+                                                <button> < </button>
+                                            </p>
+                                            <p>
+                                                <button>  </button>
+                                            </p>
+                                            <div>
+                                                <h4>
+                                                    <p>
+                                                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. <br/>
+                                                        Aut, eius soluta possimus exercitationem quis mollitia consequuntur <br/> 
+                                                        minus quae molestiae dolorum ab culpa cum modi ipsam ex dicta dolore ea natus. <br/>
+                                                    </p>
+                                                    <p>
+                                                        <strong>
+                                                            Sarah
+                                                        </strong>
+                                                    </p>
+                                                    <p>
+                                                        <img src="../visa/user1.png">
+                                                    </p>
+                                                </h4>
+                                            </div>
+                                            <div>
+                                                <h4>
+                                                    <p>
+                                                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. <br/>
+                                                        Aut, eius soluta possimus exercitationem quis mollitia consequuntur <br/> 
+                                                        minus quae molestiae dolorum ab culpa cum modi ipsam ex dicta dolore ea natus. <br/>
+                                                    </p>
+                                                    <p>
+                                                        <strong>
+                                                            Sarah
+                                                        </strong>
+                                                    </p>
+                                                    <p>
+                                                        <img src="../visa/user1.png">
+                                                    </p>
+                                                </h4>
+                                            </div>
+                                            <div>
+                                                <h4>
+                                                    <p>
+                                                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. <br/>
+                                                        Aut, eius soluta possimus exercitationem quis mollitia consequuntur <br/> 
+                                                        minus quae molestiae dolorum ab culpa cum modi ipsam ex dicta dolore ea natus. <br/>
+                                                    </p>
+                                                    <p>
+                                                        <strong>
+                                                            Sarah
+                                                        </strong>
+                                                    </p>
+                                                    <p>
+                                                        <img src="../visa/user1.png">
+                                                    </p>
+                                                </h4>
+                                            </div>
+                                            <div>
+                                                <h4>
+                                                    <p>
+                                                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. <br/>
+                                                        Aut, eius soluta possimus exercitationem quis mollitia consequuntur <br/> 
+                                                        minus quae molestiae dolorum ab culpa cum modi ipsam ex dicta dolore ea natus. <br/>
+                                                    </p>
+                                                    <p>
+                                                        <strong>
+                                                            Sarah
+                                                        </strong>
+                                                    </p>
+                                                    <p>
+                                                        <img src="../visa/user1.png">
+                                                    </p>
+                                                </h4>
+                                            </div>
+                                            <div>
+                                                <h4>
+                                                    <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. <br/>
+                                                        Aut, eius soluta possimus exercitationem quis mollitia consequuntur <br/> 
+                                                        minus quae molestiae dolorum ab culpa cum modi ipsam ex dicta dolore ea natus. <br/>
+                                                    </p>
+                                                    <p>
+                                                        <strong>
+                                                            Sarah
+                                                        </strong>
+                                                    </p>
+                                                    <p>
+                                                        <img src="../visa/user1.png">
+                                                    </p>
+                                                </h4>
+                                            </div>
+                                            <div>
+                                                <h4>
+                                                    <p>
+                                                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. <br/>
+                                                        Aut, eius soluta possimus exercitationem quis mollitia consequuntur <br/> 
+                                                        minus quae molestiae dolorum ab culpa cum modi ipsam ex dicta dolore ea natus. <br/>
+                                                    </p>
+                                                    <p>
+                                                        <strong>
+                                                            Sarah
+                                                        </strong>
+                                                    </p>
+                                                    <p>
+                                                        <img src="../visa/user1.png">
+                                                    </p>
+                                                </h4>
+                                            </div>
+                                        </p>
+                                    </div>
+                                </div>
+                            </section>
+                            <section>
+                                <p>
+                                    <h2>
+                                        <strong>
+                                            Let's grow your business,
+                                            together.
+                                        </strong>
+                                    </h2>
+                                </p>
+                                <p>
+                                    <button class="botao_branco">
+                                        <a href="#"> Get Started &#x21FE </a>
+                                    </button>
+                                </p>
+                            </section>
+                            <footer>
+                                <img src="../visa/finance.png">
+                                <p>
+                                    <h4>
+                                        Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                                    </h4>
+                                </p>
+                                <p>
+                                    <img src="../visa/linkedin.png">
+                                    <img src="../visa/messanger.png">
+                                    <img src="../visa/twitter.png">
+                                    <img src="../visa/infinito.png">
+                                    <section id="sign up">
+                                        <div>
+                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, eum ullam nihil quam sit dolorum at tempore minus necessitatibus hic! Obcaecati laborum iste, velit id consequatur tenetur fugit voluptatibus ducimus!
+                                        </div>
+                                        <div>
+                                            <h3>Company</h3>
+                                            <nav>
+                                                <ul>
+                                                    <li><a href="">About Us</a></li>
+                                                    <li><a href="">Carrers</a></li>
+                                                    <li><a href="">Blog</a></li>
+                                                    <li><a href="">Pricing</a></li>
+                                                </ul>
+                                            </nav>
+                                        </div>
+                                        <div>
+                                            <h3>Resources</h3>
+                                            <nav>
+                                                <ul>
+                                                    <li><a href="">Templates</a></li>
+                                                    <li><a href="">Tutorials</a></li>
+                                                    <li><a href="">Free resources</a></li>
+                                                    <li><a href="">Contract templates</a></li>
+                                                </ul>
+                                            </nav>
+                                        </div>
+                                        <h3>Join Our Newsletter</h3>
+                                        <input type="text"> <button>Subscribe</button>
+                                        <p>* Will send you weekly updates for your better finance management</p>
+                                    </section>
+                                </div>
+                                </main>
+                                </div>
+                                <hr>
+                                <div>
+                                    <footer>
+                                        <div>
+                                            <p>Copyright @ Finance 2022. All Rights Reserved.</p>
+                                        </div>
+                                    </footer>
+                                </div>
+                                </p>
+                            </footer>
+                        </p>
+                        </p>
+                        </p>
+                    </p>
+                </div>
+            </section>
+        </section>
+    </main>
+</body>
+</html>
